@@ -5,7 +5,7 @@ format:
   html:
     theme: flatly
 about:
-  template: jolla
+  template: trestles
   image: profile.jpg
   image-alt: "Profile image of Jayden Lieu"
   links:
@@ -33,4 +33,4 @@ I build reproducible analytics workflows, clean and visualize data with R, and c
 
 ## Connect with me
 - GitHub: [jlieu02](https://github.com/jlieu02)
-- LinkedIn: [linkedin.com/in/jayden-lieu](https://www.linkedin.com/in/jayden-lieu)
+- LinkedIn: [linkedin.com/in/jayden-lieu](https://www.linkedin.com/in/jayden-lieu-ab6771368)

@@ -47,5 +47,47 @@
     "title": "Jayden Lieu",
     "section": "Connect with me",
     "text": "Connect with me\n\nGitHub: jlieu02\nLinkedIn: linkedin.com/in/jayden-lieu"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Data Science student at the University of British Columbia with experience in building reproducible analytics workflows, data cleaning, and web scraping using R and Python."
+  },
+  {
+    "objectID": "resume.html#professional-summary",
+    "href": "resume.html#professional-summary",
+    "title": "Resume",
+    "section": "",
+    "text": "Data Science student at the University of British Columbia with experience in building reproducible analytics workflows, data cleaning, and web scraping using R and Python."
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Resume",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nLanguages:\n\nR (Tidyverse, dplyr, tidyr, readr, ggplot2, rvest)\nPython (Pandas, NumPy)\nSQL\n\nTools & Technologies: Git, VS Code, Quarto, Jupyter Notebooks"
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Resume",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nPlayland\nCandy Lead | (July 2025 - Present)\n\nSupervise and train staff while promoting customer satisfaction\nProvide excellent hospitality and communication to customers\nManagement of inventory levels and making product\n\n\n\nRogers Arena\nRetail Sales Associate | (February 2022 - Present)\n\nProvided high-quality customer service in a fast-paced environment during major events.\nHandled inventory management and accurate cash handling workflows."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\n\nUniversity of British Columbia\nBachelor of Science, Data Science Major | Third Year\n* Dean’s List (2024-2025)"
+  },
+  {
+    "objectID": "resume.html#relevant-coursework",
+    "href": "resume.html#relevant-coursework",
+    "title": "Resume",
+    "section": "Relevant Coursework",
+    "text": "Relevant Coursework\n\n\n\nDSCI 100: Introduction to Data Science\nDSCI 200: Navigating Data: Acquisition, Exploration and Management\nDSCI 221: Data Structures for Data Science\n\n\n\nCPSC 110: Computation, Programs, and Programming\nCPSC 203: Programming, Problem Solving & Algorithms\nSTAT 201: Statistical Inference for Data Science"
   }
 ]

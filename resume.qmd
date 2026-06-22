@@ -1,0 +1,54 @@
+---
+title: "Resume"
+---
+
+{{< downloadthis resume.pdf label="Download Full Resume (PDF)" icon="file-earmark-pdf" type="primary" >}}
+
+## Professional Summary
+Data Science student at the University of British Columbia with experience in building reproducible analytics workflows, data cleaning, and web scraping using R and Python.
+
+## Technical Skills
+* **Languages:**
+  * **R** (Tidyverse, dplyr, tidyr, readr, ggplot2, rvest)
+  * **Python** (Pandas, NumPy)
+  * **SQL**
+* **Tools & Technologies:** Git, VS Code, Quarto, Jupyter Notebooks
+
+## Professional Experience
+
+### Playland
+**Candy Lead** | (July 2025 - Present)
+
+* Supervise and train staff while promoting customer satisfaction 
+* Provide excellent hospitality and communication to customers 
+* Management of inventory levels and making product
+
+### Rogers Arena
+**Retail Sales Associate** | (February 2022 - Present)
+
+* Provided high-quality customer service in a fast-paced environment during major events.
+* Handled inventory management and accurate cash handling workflows.
+
+## Education
+
+### University of British Columbia
+**Bachelor of Science, Data Science Major** | *Third Year* \
+* *Dean's List (2024-2025)*
+
+## Relevant Coursework
+
+:::: {.columns}
+
+::: {.column width="50%"}
+* **DSCI 100:** Introduction to Data Science
+* **DSCI 200:** Navigating Data: Acquisition, Exploration and Management
+* **DSCI 221:** Data Structures for Data Science
+:::
+
+::: {.column width="50%"}
+* **CPSC 110:** Computation, Programs, and Programming
+* **CPSC 203:** Programming, Problem Solving & Algorithms
+* **STAT 201:** Statistical Inference for Data Science
+:::
+
+::::
