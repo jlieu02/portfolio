@@ -1,0 +1,46 @@
+---
+title: "Projects"
+format:
+  html:
+    theme: flatly
+    toc: false
+---
+
+# Projects
+
+## NASA EONET API Natural Event Tracking
+
+### Overview
+A data science project that uses the NASA EONET API to track and analyze natural events over time.
+
+### Tech stack
+- R
+- `httr`
+- `jsonlite`
+- `dplyr`
+- `ggplot2`
+
+### Description
+This project retrieves event data from the NASA EONET API, cleans and transforms the dataset, and explores active natural phenomena such as wildfires, storms, and volcanic activity.
+
+### Visualization
+The analysis includes time-series plots, event counts by category, and geographic summaries to highlight trends in natural event frequency and impact.
+
+---
+
+## Web Scraping and HTML Parsing with rvest
+
+### Overview
+A project focused on collecting structured data from web pages using `rvest` and parsing HTML elements for analysis.
+
+### Tech stack
+- R
+- `rvest`
+- `xml2`
+- `tidyverse`
+
+### Description
+This project scrapes data from web sources, extracts tables and page content, and organizes the results into clean data frames for downstream analysis.
+
+### Visualization
+The workflow includes summary charts and dashboards that visualize scraped data patterns, such as frequency counts, category distributions, and extracted metric trends.

@@ -1,3 +1,25 @@
 project:
   type: website
   output-dir: docs
+website:
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
+    right:
+      - icon: github
+        href: https://github.com/jlieu02
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jayden-lieu
+
+format:
+  html:
+    theme: flatly
+    toc: false
+    code-fold: false
+    highlight-style: github
+    page-layout: full
