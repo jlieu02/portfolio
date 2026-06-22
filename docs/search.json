@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A data science project that uses the NASA EONET API to track and analyze natural events over time.\n\n\n\n\nR\nhttr\njsonlite\ndplyr\nggplot2\n\n\n\n\nThis project retrieves event data from the NASA EONET API, cleans and transforms the dataset, and explores active natural phenomena such as wildfires, storms, and volcanic activity.\n\n\n\nThe analysis includes time-series plots, event counts by category, and geographic summaries to highlight trends in natural event frequency and impact.\n\n\n\n\n\n\n\nA project focused on collecting structured data from web pages using rvest and parsing HTML elements for analysis.\n\n\n\n\nR\nrvest\nxml2\ntidyverse\n\n\n\n\nThis project scrapes data from web sources, extracts tables and page content, and organizes the results into clean data frames for downstream analysis.\n\n\n\nThe workflow includes summary charts and dashboards that visualize scraped data patterns, such as frequency counts, category distributions, and extracted metric trends."
+  },
+  {
+    "objectID": "projects.html#nasa-eonet-api-natural-event-tracking",
+    "href": "projects.html#nasa-eonet-api-natural-event-tracking",
+    "title": "Projects",
+    "section": "",
+    "text": "A data science project that uses the NASA EONET API to track and analyze natural events over time.\n\n\n\n\nR\nhttr\njsonlite\ndplyr\nggplot2\n\n\n\n\nThis project retrieves event data from the NASA EONET API, cleans and transforms the dataset, and explores active natural phenomena such as wildfires, storms, and volcanic activity.\n\n\n\nThe analysis includes time-series plots, event counts by category, and geographic summaries to highlight trends in natural event frequency and impact."
+  },
+  {
+    "objectID": "projects.html#web-scraping-and-html-parsing-with-rvest",
+    "href": "projects.html#web-scraping-and-html-parsing-with-rvest",
+    "title": "Projects",
+    "section": "",
+    "text": "A project focused on collecting structured data from web pages using rvest and parsing HTML elements for analysis.\n\n\n\n\nR\nrvest\nxml2\ntidyverse\n\n\n\n\nThis project scrapes data from web sources, extracts tables and page content, and organizes the results into clean data frames for downstream analysis.\n\n\n\nThe workflow includes summary charts and dashboards that visualize scraped data patterns, such as frequency counts, category distributions, and extracted metric trends."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jayden Lieu",
+    "section": "",
+    "text": "Hi, I’m Jayden — a data science student at the University of British Columbia focused on turning complex data into actionable insights.\nI build reproducible analytics workflows, clean and visualize data with R, and communicate results through polished dashboards and reports."
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Jayden Lieu",
+    "section": "What I do",
+    "text": "What I do\n\nExplore real-world datasets and extract meaningful trends\nBuild reproducible R pipelines for data cleaning and modeling\nCreate clear visual stories for stakeholders and technical audiences"
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Jayden Lieu",
+    "section": "Featured work",
+    "text": "Featured work\n\nNASA EONET natural event tracking and analysis with R\nWeb scraping and HTML parsing workflows using rvest\nData visualization that highlights trends, anomalies, and impact"
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "Jayden Lieu",
+    "section": "Connect with me",
+    "text": "Connect with me\n\nGitHub: jlieu02\nLinkedIn: linkedin.com/in/jayden-lieu"
+  }
+]
