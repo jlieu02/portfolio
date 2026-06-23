@@ -4,9 +4,10 @@ Welcome to my data science and data engineering portfolio! This repository serve
 
 Each project listed below is organized into its own dedicated directory with comprehensive documentation, source code, and reproducibility steps.
 
+Link to my portfolio: https://jlieu02.github.io/portfolio/
 ---
 
-## 👤 About Me
+## About Me
 I am a Data Science student at the University of British Columbia (UBC). I specialize in building end-to-end analytical pipelines, transforming unstructured data structures (like HTML DOM trees and deeply nested JSON coordinates), and developing robust exploratory data models.
 
 * **Languages:** R, Python, SQL
