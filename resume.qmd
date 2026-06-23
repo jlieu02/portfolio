@@ -1,9 +1,10 @@
 ---
 title: "Resume"
 ---
-
-{{< downloadthis resume.pdf label="Download Full Resume (PDF)" icon="file-earmark-pdf" type="primary" >}}
-
+<!--
+  Add for downloadable PDF version of resume later if needed.
+  {{< downloadthis resume.pdf label="Download Full Resume (PDF)" icon="file-earmark-pdf" type="primary" >}}
+-->
 ## Professional Summary
 Data Science student at the University of British Columbia with experience in building reproducible analytics workflows, data cleaning, and web scraping using R and Python.
 

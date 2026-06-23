@@ -1,54 +1,5 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "A data science project that uses the NASA EONET API to track and analyze natural events over time.\n\n\n\n\nR\nhttr\njsonlite\ndplyr\nggplot2\n\n\n\n\nThis project retrieves event data from the NASA EONET API, cleans and transforms the dataset, and explores active natural phenomena such as wildfires, storms, and volcanic activity.\n\n\n\nThe analysis includes time-series plots, event counts by category, and geographic summaries to highlight trends in natural event frequency and impact.\n\n\n\n\n\n\n\nA project focused on collecting structured data from web pages using rvest and parsing HTML elements for analysis.\n\n\n\n\nR\nrvest\nxml2\ntidyverse\n\n\n\n\nThis project scrapes data from web sources, extracts tables and page content, and organizes the results into clean data frames for downstream analysis.\n\n\n\nThe workflow includes summary charts and dashboards that visualize scraped data patterns, such as frequency counts, category distributions, and extracted metric trends."
-  },
-  {
-    "objectID": "projects.html#nasa-eonet-api-natural-event-tracking",
-    "href": "projects.html#nasa-eonet-api-natural-event-tracking",
-    "title": "Projects",
-    "section": "",
-    "text": "A data science project that uses the NASA EONET API to track and analyze natural events over time.\n\n\n\n\nR\nhttr\njsonlite\ndplyr\nggplot2\n\n\n\n\nThis project retrieves event data from the NASA EONET API, cleans and transforms the dataset, and explores active natural phenomena such as wildfires, storms, and volcanic activity.\n\n\n\nThe analysis includes time-series plots, event counts by category, and geographic summaries to highlight trends in natural event frequency and impact."
-  },
-  {
-    "objectID": "projects.html#web-scraping-and-html-parsing-with-rvest",
-    "href": "projects.html#web-scraping-and-html-parsing-with-rvest",
-    "title": "Projects",
-    "section": "",
-    "text": "A project focused on collecting structured data from web pages using rvest and parsing HTML elements for analysis.\n\n\n\n\nR\nrvest\nxml2\ntidyverse\n\n\n\n\nThis project scrapes data from web sources, extracts tables and page content, and organizes the results into clean data frames for downstream analysis.\n\n\n\nThe workflow includes summary charts and dashboards that visualize scraped data patterns, such as frequency counts, category distributions, and extracted metric trends."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jayden Lieu",
-    "section": "",
-    "text": "Hi, I’m Jayden — a data science student at the University of British Columbia focused on turning complex data into actionable insights.\nI build reproducible analytics workflows, clean and visualize data with R, and communicate results through polished dashboards and reports."
-  },
-  {
-    "objectID": "index.html#what-i-do",
-    "href": "index.html#what-i-do",
-    "title": "Jayden Lieu",
-    "section": "What I do",
-    "text": "What I do\n\nExplore real-world datasets and extract meaningful trends\nBuild reproducible R pipelines for data cleaning and modeling\nCreate clear visual stories for stakeholders and technical audiences"
-  },
-  {
-    "objectID": "index.html#featured-work",
-    "href": "index.html#featured-work",
-    "title": "Jayden Lieu",
-    "section": "Featured work",
-    "text": "Featured work\n\nNASA EONET natural event tracking and analysis with R\nWeb scraping and HTML parsing workflows using rvest\nData visualization that highlights trends, anomalies, and impact"
-  },
-  {
-    "objectID": "index.html#connect-with-me",
-    "href": "index.html#connect-with-me",
-    "title": "Jayden Lieu",
-    "section": "Connect with me",
-    "text": "Connect with me\n\nGitHub: jlieu02\nLinkedIn: linkedin.com/in/jayden-lieu"
-  },
-  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
@@ -89,5 +40,75 @@
     "title": "Resume",
     "section": "Relevant Coursework",
     "text": "Relevant Coursework\n\n\n\nDSCI 100: Introduction to Data Science\nDSCI 200: Navigating Data: Acquisition, Exploration and Management\nDSCI 221: Data Structures for Data Science\n\n\n\nCPSC 110: Computation, Programs, and Programming\nCPSC 203: Programming, Problem Solving & Algorithms\nSTAT 201: Statistical Inference for Data Science"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jayden Lieu",
+    "section": "",
+    "text": "Hi, I’m Jayden — a data science student at the University of British Columbia focused on turning complex data into actionable insights.\nI build reproducible analytics workflows, clean and visualize data with R, and communicate results through dashboards and reports."
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Jayden Lieu",
+    "section": "What I do",
+    "text": "What I do\n\nExplore real-world datasets and extract meaningful trends\nBuild reproducible R pipelines for data cleaning and modeling\nCreate clear visual stories for stakeholders and technical audiences"
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Jayden Lieu",
+    "section": "Featured work",
+    "text": "Featured work\n\nPLAICraft player engagement analysis for UBC Computer Science research group\nNASA EONET natural event tracking and analysis with R\nWeb scraping and HTML parsing workflows using rvest\nData visualization that highlights trends, anomalies, and impact"
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "Jayden Lieu",
+    "section": "Connect with me",
+    "text": "Connect with me\n\nGitHub: jlieu02\nLinkedIn: linkedin.com/in/jayden-lieu"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Welcome to my data portfolio! Below are featured engineering pipelines, API data clients, and predictive analytics projects built using R."
+  },
+  {
+    "objectID": "projects.html#nasa-eonet-api-natural-event-tracking",
+    "href": "projects.html#nasa-eonet-api-natural-event-tracking",
+    "title": "Projects",
+    "section": "NASA EONET API Natural Event Tracking",
+    "text": "NASA EONET API Natural Event Tracking\n\nTech stack\n\nR\nhttr\njsonlite\ndplyr\nggplot2\n\nProgrammatic API Consumption, JSON Unnesting, & Geospatial Analysis\n\n\n\n\nOverview\nBuilt an API pipeline to programmatically query NASA’s Earth Observatory Natural Event Tracker (EONET) to isolate, clean, and categorize global natural events (wildfires, storms, and volcanic activity) over time.\n\n\nCore Analytics & Methodology\n\nFeature Engineering: Isolated individual player demographic attributes and total tracked playtime segments out of multi-relational gaming telemetry logs.\nPredictive Modeling: Built a regression model mapping individual age factors against player session lengths.\nStrategic Optimization: Identified an engagement inflection point highlighting that university-aged players under 28 yielded the highest data densities, providing actionable targeting criteria for the research group.\n\n\n\n\nTechnical Stack\n\nLanguage: R\nCore Libraries: httr, jsonlite, dplyr, ggplot2\nData Format: Interactive Jupyter Environment (.ipynb)\n\n```yaml # Sample Analytical Insight Target Demographic: Age ≤ 28 Primary Hub: UBC Undergraduates Objective: Maximize data telemetry\n\n\n\nWorkflow\n\nAuthenticated and managed programmatic GET requests to the NASA REST API endpoint.\nParsed complex, deeply nested JSON spatial geometries into a flat relational data structure.\nConducted Exploratory Data Analysis (EDA) to map event frequencies by geographical boundaries and categories.\n\n\n\nVisualization\nThe analysis includes time-series plots, event counts by category, and geographic summaries to highlight trends in natural event frequency and impact.\n\n\n\nWeb Scraping and HTML Parsing with rvest\nE-Commerce Sandbox Data Extraction & Structure\n\n\nOverview\nA project focused on collecting structured data from web pages using rvest and parsing HTML elements for analysis.\n\n\nTech stack\n\nR\nrvest\nxml2\ntidyverse\n\n\n\nWorkflow\n\nInspected and verified compliance with the site’s robots.txt permissions to ensure ethical data scraping.\nExtracted semi-structured HTML components including item titles, prices, star ratings, and stock availability status.\nCleaned and unnested string values into a highly structured, analysis-ready tibble dataframe.\n\n\n\nVisualization\nThe workflow includes summary charts and dashboards that visualize scraped data patterns, such as frequency counts, category distributions, and extracted metric trends.\n\n\n\n\nAnalytical Highlight: Data Governance & Privacy\n\nEthical Data Ownership: Evaluated licensing constraints, documented data provenance, and aligned the pipeline with FAIR data principles (Findable, Accessible, Interoperable, Reusable) to guarantee reproducible research.\nPrivacy-Preserving Analytics: Mitigated re-identification risks of sensitive attributes by implementing structural data anonymization techniques.\n\nGeneralization & Discretization: Transformed high-risk continuous numeric attributes into secure category bands.\nDifferential Privacy Foundations: Synthesized a random Normal distribution noise layer (\\(~N(\\mu, 1)\\)) over specific metrics to mask individual records while maintaining underlying population trends.\nModel Evaluation: Audited data structures against \\(k\\)-Anonymity and \\(l\\)-Diversity privacy compliance benchmarks."
+  },
+  {
+    "objectID": "projects.html#web-scraping-and-html-parsing-with-rvest",
+    "href": "projects.html#web-scraping-and-html-parsing-with-rvest",
+    "title": "Projects",
+    "section": "📊 Web Scraping and HTML Parsing with rvest",
+    "text": "📊 Web Scraping and HTML Parsing with rvest\nE-Commerce Sandbox Data Extraction & Structure\n\n\n\nOverview\nDeveloped an automated data extraction engine to collect structured data from web pages using rvest and parse complex HTML elements for analysis.\n\n\nWorkflow\n\nEthical Compliance: Inspected and verified script alignment with the site’s robots.txt permissions to ensure responsible scraping practices.\nDOM Parsing: Extracted semi-structured HTML components including item titles, dynamic prices, star ratings, and stock availability status.\nData Cleansing: Cleaned and unnested raw text strings into a highly structured, analysis-ready tibble dataframe.\n\n\n\n\nTech Stack\n\nLanguage: R\nCore Libraries: rvest, xml2, tidyverse\nData Format: Semi-structured HTML\n\n# Sample Pipeline Step\nTarget: books.toscrape.com\nEngine: read_html()\nSelector: html_nodes(\".product_pod\")\n\n\n\nView Source Code on GitHub"
+  },
+  {
+    "objectID": "projects.html#analytical-highlight-data-governance-privacy",
+    "href": "projects.html#analytical-highlight-data-governance-privacy",
+    "title": "Projects",
+    "section": "Analytical Highlight: Data Governance & Privacy",
+    "text": "Analytical Highlight: Data Governance & Privacy\n\nEthical Data Ownership: Evaluated licensing constraints, documented data provenance, and aligned the pipeline with FAIR data principles (Findable, Accessible, Interoperable, Reusable) to guarantee reproducible research.\nPrivacy-Preserving Analytics: Mitigated re-identification risks of sensitive attributes by implementing structural data anonymization techniques.\n\nGeneralization & Discretization: Transformed high-risk continuous numeric attributes into secure category bands.\nDifferential Privacy Foundations: Synthesized a random Normal distribution noise layer (\\(~N(\\mu, 1)\\)) over specific metrics to mask individual records while maintaining underlying population trends.\nModel Evaluation: Audited data structures against \\(k\\)-Anonymity and \\(l\\)-Diversity privacy compliance benchmarks."
+  },
+  {
+    "objectID": "projects.html#behavioral-playtime-analytics-the-plaicraft-project",
+    "href": "projects.html#behavioral-playtime-analytics-the-plaicraft-project",
+    "title": "Projects",
+    "section": "🎮 Behavioral Playtime Analytics: The PLAICraft Project",
+    "text": "🎮 Behavioral Playtime Analytics: The PLAICraft Project\nUBC Computer Science Research Group Collaboration\n\n\n\nOverview\nAnalyzed player acquisition and engagement data generated by users on PLAICraft, a custom Minecraft server deployed by a Computer Science research group at the University of British Columbia. The objective was to determine specific player demographic profiles that maximize data contributions to improve strategic server recruitment efforts.\n\n\nCore Analytics & Methodology\n\nFeature Engineering: Isolated individual player demographic attributes and total tracked playtime segments out of multi-relational gaming telemetry logs.\nPredictive Modeling: Built a regression model mapping individual age factors against player session lengths.\nStrategic Optimization: Identified an engagement inflection point highlighting that university-aged players under 28 yielded the highest data densities, providing actionable targeting criteria for the research group.\n\n\n\n\nTechnical Stack\n\nLanguage: R\nCore Libraries: tidyverse, ggplot2, broom\nData Format: Gaming & Session Logs (.csv)\n\n# Analytical Insight\nTarget Demographic: Age ≤ 28\nPrimary Hub: UBC Undergraduates\nObjective: Maximize data collection and engagement\n\n\n\nView Source Code on GitHub"
+  },
+  {
+    "objectID": "projects.html#nasa-eonet-api-natural-event-tracker",
+    "href": "projects.html#nasa-eonet-api-natural-event-tracker",
+    "title": "Projects",
+    "section": "🌎 NASA EONET API Natural Event Tracker",
+    "text": "🌎 NASA EONET API Natural Event Tracker\nProgrammatic REST API Consumption & JSON Geometry Flattening\n\n\n\nOverview\nBuilt an API pipeline to programmatically query NASA’s Earth Observatory Natural Event Tracker (EONET), isolating, cleaning, and categorizing global natural events—such as wildfires, storms, and volcanic activity—over time.\n\n\nCore Analytics & Methodology\n\nAPI Architecture: Authenticated and structured native HTTP GET requests to query NASA’s live REST API endpoint recursively.\nData Transformation: Parsed complex, deeply nested JSON spatial vectors and multi-dimensional geometry coordinates into clean, flat relational data frames.\nData Pipelines: Integrated robust error-handling workflows to handle empty objects or missing observation fields safely during extraction.\n\n\n\n\nTechnical Stack\n\nLanguage: R\nCore Libraries: httr, jsonlite, tidyverse, ggplot2\nData Format: JavaScript Object Notation (JSON)\n\n# Sample Pipeline Step\nEndpoint: api/v3/events\nFormat: GeoJSON/Nested\nMethod: unnest_wider()\n\n\n\nView Source Code on GitHub"
   }
 ]

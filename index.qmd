@@ -17,9 +17,9 @@ about:
       href: https://www.linkedin.com/in/jayden-lieu
 ---
 
-Hi, I’m Jayden — a data science student at the University of British Columbia focused on turning complex data into actionable insights.
+Hi, I’m Jayden — an incoming third year data science student at the University of British Columbia focused on turning complex data into actionable insights.
 
-I build reproducible analytics workflows, clean and visualize data with R, and communicate results through polished dashboards and reports.
+I build reproducible analytics workflows, clean and visualize data with R, and communicate results through dashboards and reports.
 
 ## What I do
 - Explore real-world datasets and extract meaningful trends
@@ -27,6 +27,7 @@ I build reproducible analytics workflows, clean and visualize data with R, and c
 - Create clear visual stories for stakeholders and technical audiences
 
 ## Featured work
+- PLAICraft player engagement analysis for UBC Computer Science research group
 - NASA EONET natural event tracking and analysis with R
 - Web scraping and HTML parsing workflows using `rvest`
 - Data visualization that highlights trends, anomalies, and impact
