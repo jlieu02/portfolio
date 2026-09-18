@@ -14,7 +14,7 @@ Welcome to my data portfolio! Below are featured engineering pipelines, API data
 
 ---
 
-## 🎮 Behavioral Playtime Analytics: The PLAICraft Project
+## Behavioral Playtime Analytics: The PLAICraft Project
 **UBC Computer Science Research Group Collaboration**
 
 :::: {.columns}
@@ -46,7 +46,7 @@ Objective: Maximize data collection and engagement
 
 [View Source Code on GitHub](https://github.com/Jayden-Yee/Group-Project-Final){.btn .btn-outline-primary .btn-sm role="button"}
 
-## 🌎 NASA EONET API Natural Event Tracker
+## NASA EONET API Natural Event Tracker
 **Programmatic REST API Consumption & JSON Geometry Flattening**
 
 :::: {.columns}
@@ -78,10 +78,40 @@ Method: unnest_wider()
 
 [View Source Code on GitHub](https://github.com/jlieu02/Data-Acquisition-Privacy-and-Ownership-Case-Study){.btn .btn-outline-primary .btn-sm role="button"}
 
-## 📊 Web Scraping and HTML Parsing with rvest
+## Genomic Pipeline & Interval Tree
 **E-Commerce Sandbox Data Extraction & Structure**
 
 :::: {.columns}
+
+## Genomic Pipeline & Interval Tree
+**Scalable Genomic Interval Search & Mapping**
+
+:::: {.columns}
+
+::: {.column width="60%"}
+### Overview
+Implemented an interval tree search algorithm with several helper functions to query overlapping genomic features across 4M+ genomic intervals and optimized query performance for fast coordinate retrieval.
+
+### Workflow
+* **Algorithm Design:** Built a balanced interval tree search algorithm from scratch to efficiently index genomic intervals.
+* **Feature Querying:** Developed custom helper functions to perform fast overlap queries across 4M+ genomic features.
+* **Performance Optimization:** Optimized time complexity for spatial coordinate lookup, enabling rapid retrieval of positional gene data.
+:::
+
+::: {.column width="40%"}
+### Tech Stack
+* **Language:** `Python`
+* **Core Modules:** Base Python (built-in data strucutres & standard library)
+* **Data Scale:** 4M+ Genomic Coordinate Query
+
+```yaml
+# Sample Pipeline Step
+Target: Genomic Coordinate Query
+Engine: IntervalTree Search
+Scale: 4M+ Features
+```
+:::
+::::
 
 ::: {.column width="60%"}
 ### Overview

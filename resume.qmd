@@ -1,55 +1,54 @@
 ---
 title: "Resume"
 ---
-<!--
-  Add for downloadable PDF version of resume later if needed.
-  {{< downloadthis resume.pdf label="Download Full Resume (PDF)" icon="file-earmark-pdf" type="primary" >}}
--->
-## Professional Summary
-Data Science student at the University of British Columbia with experience in building reproducible analytics workflows, data cleaning, and web scraping using R and Python.
+
+
+<!--  Add for downloadable PDF version of resume later if needed. -->
+{{< downloadthis resume.pdf label="Download Full Resume (PDF)" icon="file-earmark-pdf" type="primary" >}}
+
+
+## University of British Columbia – Faculty of Science (2024 – Present) – Data Science Major
+
+*Dean’s List (2024-2025)*
+
+- DSCI 200 (Data Acquisition, Exploration, and Management)
+- STAT 301 (Statistical Modeling)
+- DSCI 221 (Data Structures & Algorithms)
+- DSCI 320 (Data Visualization)
+
+## Work Experience
+
+### University of British Columbia – Undergraduate Teaching Assistant (September 2026 – Present)
+**CPSC 203 (Programming, Problem Solving, and Algorithms)**
+
+- Debugged, maintained, and automated python auto grader scripts to ensure precise code evaluation and test accuracy for student submissions
+- Lead interactive tutorials for 40+ students, reinforcing core object-oriented programming principles, software logic, and debugging alongside assisting programming work such as sudoku solvers using Dijkstra’s algorithm
+
+### Playland – Candy Lead (July 2025 – Present) | Playland – Candy Attendant (May 2022 – July 2025)
+
+- Ensure quality control, inventory level accuracy, and manage production of food
+- Supervised and trained over 20+ team members on operating procedures and customer service skills
+
+## Projects
+
+### NASA EONET Data Extraction & Privacy Analysis | R (February 2026 – April 2026)
+
+- Gathered, cleaned, and structured nested JSON spatial coordinate data using scripts to build tidy datasets
+- Implemented data transformation, data collection, and quality assurance workflows to handle missing values, validate geospatial coordinate formatting, and evaluate privacy metrics to protect sensitive user records
+
+### Genomic Pipeline & Interval Tree | Python (February 2026 – March 2026)
+
+- Implemented an interval tree search algorithm with several helper functions to query overlapping genomic features across 4M+ genomic intervals
+- Optimized time complexity for querying genomic coordinates, enabling fast retrieval of positional gene data
+
+### PlaiCraft Dataset Project | R (September 2024 – December 2024)
+
+- Identified a demographic of players for a research group to recruit in their project by analyzing game data
+- Imported, wrangled and tidied data into a suitable form for data analysis using the dplyr, tidyr, and readr libraries, followed by exploratory analysis with distributions and scatterplots using ggplot2
+- Trained a predictive KNN regression model, leveraging cross-validation to accurately analyze player behaviour trends such as age while preventing data bias
 
 ## Technical Skills
-* **Languages:**
-  * **R** (Tidyverse, dplyr, tidyr, readr, ggplot2, rvest)
-  * **Python** (Pandas, NumPy)
-  * **SQL**
-* **Tools & Technologies:** Git, VS Code, Quarto, Jupyter Notebooks
 
-## Professional Experience
+**Languages:** Python (Pandas, NumPy, matplotlib, Vega-Altair), R (dplyr, tidyr, readr, ggplot2), SQL, HTML, PHP
 
-### Playland
-**Candy Lead** | (July 2025 - Present)
-
-* Supervise and train staff while promoting customer satisfaction 
-* Provide excellent hospitality and communication to customers 
-* Management of inventory levels and making product
-
-### Rogers Arena
-**Retail Sales Associate** | (February 2022 - Present)
-
-* Provided high-quality customer service in a fast-paced environment during major events.
-* Handled inventory management and accurate cash handling workflows.
-
-## Education
-
-### University of British Columbia
-**Bachelor of Science, Data Science Major** | *Third Year* \
-* *Dean's List (2024-2025)*
-
-## Relevant Coursework
-
-:::: {.columns}
-
-::: {.column width="50%"}
-* **DSCI 100:** Introduction to Data Science
-* **DSCI 200:** Navigating Data: Acquisition, Exploration and Management
-* **DSCI 221:** Data Structures for Data Science
-:::
-
-::: {.column width="50%"}
-* **CPSC 110:** Computation, Programs, and Programming
-* **CPSC 203:** Programming, Problem Solving & Algorithms
-* **STAT 201:** Statistical Inference for Data Science
-:::
-
-::::
+**Tools & Concepts:** Git, Jupyter Notebook, Power BI, VS Code, Data QA/QC, Data Pipelines
