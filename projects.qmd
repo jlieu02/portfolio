@@ -108,6 +108,10 @@ Scale: 4M+ Features
 :::
 ::::
 
+## Web Scraping & Privacy Pipeline
+**Web data extraction and k-anonymity analysis using rvest**
+
+:::: {.columns}
 ::: {.column width="60%"}
 ### Overview
 Developed an automated data extraction engine to collect structured data from web pages using `rvest` and parse complex HTML elements for analysis.
