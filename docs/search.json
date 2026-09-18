@@ -4,63 +4,56 @@
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Data Science student at the University of British Columbia with experience in building reproducible analytics workflows, data cleaning, and web scraping using R and Python."
+    "text": "Dean’s List (2024-2025)\n\nDSCI 200 (Data Acquisition, Exploration, and Management)\nSTAT 301 (Statistical Modeling)\nDSCI 221 (Data Structures & Algorithms)\nDSCI 320 (Data Visualization)"
   },
   {
-    "objectID": "resume.html#professional-summary",
-    "href": "resume.html#professional-summary",
+    "objectID": "resume.html#university-of-british-columbia-faculty-of-science-2024-present-data-science-major",
+    "href": "resume.html#university-of-british-columbia-faculty-of-science-2024-present-data-science-major",
     "title": "Resume",
     "section": "",
-    "text": "Data Science student at the University of British Columbia with experience in building reproducible analytics workflows, data cleaning, and web scraping using R and Python."
+    "text": "Dean’s List (2024-2025)\n\nDSCI 200 (Data Acquisition, Exploration, and Management)\nSTAT 301 (Statistical Modeling)\nDSCI 221 (Data Structures & Algorithms)\nDSCI 320 (Data Visualization)"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Resume",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nUniversity of British Columbia – Undergraduate Teaching Assistant (September 2026 – Present)\nCPSC 203 (Programming, Problem Solving, and Algorithms)\n\nDebugged, maintained, and automated python auto grader scripts to ensure precise code evaluation and test accuracy for student submissions\nLead interactive tutorials for 40+ students, reinforcing core object-oriented programming principles, software logic, and debugging alongside assisting programming work such as sudoku solvers using Dijkstra’s algorithm\n\n\n\nPlayland – Candy Lead (July 2025 – Present) | Playland – Candy Attendant (May 2022 – July 2025)\n\nEnsure quality control, inventory level accuracy, and manage production of food\nSupervised and trained over 20+ team members on operating procedures and customer service skills"
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Resume",
+    "section": "Projects",
+    "text": "Projects\n\nNASA EONET Data Extraction & Privacy Analysis | R (February 2026 – April 2026)\n\nGathered, cleaned, and structured nested JSON spatial coordinate data using scripts to build tidy datasets\nImplemented data transformation, data collection, and quality assurance workflows to handle missing values, validate geospatial coordinate formatting, and evaluate privacy metrics to protect sensitive user records\n\n\n\nGenomic Pipeline & Interval Tree | Python (February 2026 – March 2026)\n\nImplemented an interval tree search algorithm with several helper functions to query overlapping genomic features across 4M+ genomic intervals\nOptimized time complexity for querying genomic coordinates, enabling fast retrieval of positional gene data\n\n\n\nPlaiCraft Dataset Project | R (September 2024 – December 2024)\n\nIdentified a demographic of players for a research group to recruit in their project by analyzing game data\nImported, wrangled and tidied data into a suitable form for data analysis using the dplyr, tidyr, and readr libraries, followed by exploratory analysis with distributions and scatterplots using ggplot2\nTrained a predictive KNN regression model, leveraging cross-validation to accurately analyze player behaviour trends such as age while preventing data bias"
   },
   {
     "objectID": "resume.html#technical-skills",
     "href": "resume.html#technical-skills",
     "title": "Resume",
     "section": "Technical Skills",
-    "text": "Technical Skills\n\nLanguages:\n\nR (Tidyverse, dplyr, tidyr, readr, ggplot2, rvest)\nPython (Pandas, NumPy)\nSQL\n\nTools & Technologies: Git, VS Code, Quarto, Jupyter Notebooks"
-  },
-  {
-    "objectID": "resume.html#professional-experience",
-    "href": "resume.html#professional-experience",
-    "title": "Resume",
-    "section": "Professional Experience",
-    "text": "Professional Experience\n\nPlayland\nCandy Lead | (July 2025 - Present)\n\nSupervise and train staff while promoting customer satisfaction\nProvide excellent hospitality and communication to customers\nManagement of inventory levels and making product\n\n\n\nRogers Arena\nRetail Sales Associate | (February 2022 - Present)\n\nProvided high-quality customer service in a fast-paced environment during major events.\nHandled inventory management and accurate cash handling workflows."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Resume",
-    "section": "Education",
-    "text": "Education\n\nUniversity of British Columbia\nBachelor of Science, Data Science Major | Third Year\n* Dean’s List (2024-2025)"
-  },
-  {
-    "objectID": "resume.html#relevant-coursework",
-    "href": "resume.html#relevant-coursework",
-    "title": "Resume",
-    "section": "Relevant Coursework",
-    "text": "Relevant Coursework\n\n\n\nDSCI 100: Introduction to Data Science\nDSCI 200: Navigating Data: Acquisition, Exploration and Management\nDSCI 221: Data Structures for Data Science\n\n\n\nCPSC 110: Computation, Programs, and Programming\nCPSC 203: Programming, Problem Solving & Algorithms\nSTAT 201: Statistical Inference for Data Science"
+    "text": "Technical Skills\nLanguages: Python (Pandas, NumPy, matplotlib, Vega-Altair), R (dplyr, tidyr, readr, ggplot2), SQL, HTML, PHP\nTools & Concepts: Git, Jupyter Notebook, Power BI, VS Code, Data QA/QC, Data Pipelines"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jayden Lieu",
     "section": "",
-    "text": "Hi, I’m Jayden — an incoming third year data science student at the University of British Columbia focused on turning complex data into actionable insights.\nI build reproducible analytics workflows, clean and visualize data with R, and communicate results through dashboards and reports."
+    "text": "Hey! I’m Jayden — a third year data science student at the University of British Columbia with a passion in turning complex data into actionable insights.\nI build reproducible analytics workflows, clean and visualize data with R and Python, and communicate results through dashboards and reports."
   },
   {
     "objectID": "index.html#what-i-do",
     "href": "index.html#what-i-do",
     "title": "Jayden Lieu",
     "section": "What I do",
-    "text": "What I do\n\nExplore real-world datasets and extract meaningful trends\nBuild reproducible R pipelines for data cleaning and modeling\nCreate clear visual stories for stakeholders and technical audiences"
+    "text": "What I do\nExploratory Data Analysis: Wrangling, cleaning, and extracting actionable insights from complex, real-world datasets. Data Engineering & Modeling: Building end-to-end, reproducible data pipelines using Python, R, and SQL. Machine Learning: Applying classification, regression, and spatial algorithms to solve predictive problems. Data Communication: Translating technical findings into interactive dashboards and clear visual reports."
   },
   {
     "objectID": "index.html#featured-work",
     "href": "index.html#featured-work",
     "title": "Jayden Lieu",
     "section": "Featured work",
-    "text": "Featured work\n\nPLAICraft player engagement analysis for UBC Computer Science research group\nNASA EONET natural event tracking and analysis with R\nWeb scraping and HTML parsing workflows using rvest\nData visualization that highlights trends, anomalies, and impact"
+    "text": "Featured work\n\nPLAICraft player engagement analysis for UBC Computer Science research group\nNASA EONET natural event tracking and analysis with R\nGenomic Interval Processing with balanced interval tree algorithms in Python\nWeb scraping and HTML parsing workflows using rvest\nData visualization that highlights trends, anomalies, and impact"
   },
   {
     "objectID": "index.html#connect-with-me",
@@ -74,21 +67,35 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome to my data portfolio! Below are featured engineering pipelines, API data clients, and predictive analytics projects built using R."
+    "text": "Welcome to my data portfolio! Below are featured engineering pipelines, API data clients, and predictive analytics projects built using R.\nView Source Code on GitHub"
   },
   {
-    "objectID": "projects.html#nasa-eonet-api-natural-event-tracking",
-    "href": "projects.html#nasa-eonet-api-natural-event-tracking",
+    "objectID": "projects.html#behavioral-playtime-analytics-the-plaicraft-project",
+    "href": "projects.html#behavioral-playtime-analytics-the-plaicraft-project",
     "title": "Projects",
-    "section": "NASA EONET API Natural Event Tracking",
-    "text": "NASA EONET API Natural Event Tracking\n\nTech stack\n\nR\nhttr\njsonlite\ndplyr\nggplot2\n\nProgrammatic API Consumption, JSON Unnesting, & Geospatial Analysis\n\n\n\n\nOverview\nBuilt an API pipeline to programmatically query NASA’s Earth Observatory Natural Event Tracker (EONET) to isolate, clean, and categorize global natural events (wildfires, storms, and volcanic activity) over time.\n\n\nCore Analytics & Methodology\n\nFeature Engineering: Isolated individual player demographic attributes and total tracked playtime segments out of multi-relational gaming telemetry logs.\nPredictive Modeling: Built a regression model mapping individual age factors against player session lengths.\nStrategic Optimization: Identified an engagement inflection point highlighting that university-aged players under 28 yielded the highest data densities, providing actionable targeting criteria for the research group.\n\n\n\n\nTechnical Stack\n\nLanguage: R\nCore Libraries: httr, jsonlite, dplyr, ggplot2\nData Format: Interactive Jupyter Environment (.ipynb)\n\n```yaml # Sample Analytical Insight Target Demographic: Age ≤ 28 Primary Hub: UBC Undergraduates Objective: Maximize data telemetry\n\n\n\nWorkflow\n\nAuthenticated and managed programmatic GET requests to the NASA REST API endpoint.\nParsed complex, deeply nested JSON spatial geometries into a flat relational data structure.\nConducted Exploratory Data Analysis (EDA) to map event frequencies by geographical boundaries and categories.\n\n\n\nVisualization\nThe analysis includes time-series plots, event counts by category, and geographic summaries to highlight trends in natural event frequency and impact.\n\n\n\nWeb Scraping and HTML Parsing with rvest\nE-Commerce Sandbox Data Extraction & Structure\n\n\nOverview\nA project focused on collecting structured data from web pages using rvest and parsing HTML elements for analysis.\n\n\nTech stack\n\nR\nrvest\nxml2\ntidyverse\n\n\n\nWorkflow\n\nInspected and verified compliance with the site’s robots.txt permissions to ensure ethical data scraping.\nExtracted semi-structured HTML components including item titles, prices, star ratings, and stock availability status.\nCleaned and unnested string values into a highly structured, analysis-ready tibble dataframe.\n\n\n\nVisualization\nThe workflow includes summary charts and dashboards that visualize scraped data patterns, such as frequency counts, category distributions, and extracted metric trends.\n\n\n\n\nAnalytical Highlight: Data Governance & Privacy\n\nEthical Data Ownership: Evaluated licensing constraints, documented data provenance, and aligned the pipeline with FAIR data principles (Findable, Accessible, Interoperable, Reusable) to guarantee reproducible research.\nPrivacy-Preserving Analytics: Mitigated re-identification risks of sensitive attributes by implementing structural data anonymization techniques.\n\nGeneralization & Discretization: Transformed high-risk continuous numeric attributes into secure category bands.\nDifferential Privacy Foundations: Synthesized a random Normal distribution noise layer (\\(~N(\\mu, 1)\\)) over specific metrics to mask individual records while maintaining underlying population trends.\nModel Evaluation: Audited data structures against \\(k\\)-Anonymity and \\(l\\)-Diversity privacy compliance benchmarks."
+    "section": "Behavioral Playtime Analytics: The PLAICraft Project",
+    "text": "Behavioral Playtime Analytics: The PLAICraft Project\nUBC Computer Science Research Group Collaboration\n\n\n\nOverview\nAnalyzed player acquisition and engagement data generated by users on PLAICraft, a custom Minecraft server deployed by a Computer Science research group at the University of British Columbia. The objective was to determine specific player demographic profiles that maximize data contributions to improve strategic server recruitment efforts.\n\n\nCore Analytics & Methodology\n\nFeature Engineering: Isolated individual player demographic attributes and total tracked playtime segments out of multi-relational gaming telemetry logs.\nPredictive Modeling: Built a regression model mapping individual age factors against player session lengths.\nStrategic Optimization: Identified an engagement inflection point highlighting that university-aged players under 28 yielded the highest data densities, providing actionable targeting criteria for the research group.\n\n\n\n\nTechnical Stack\n\nLanguage: R\nCore Libraries: tidyverse, ggplot2, broom\nData Format: Gaming & Session Logs (.csv)\n\n# Analytical Insight\nTarget Demographic: Age ≤ 28\nPrimary Hub: UBC Undergraduates\nObjective: Maximize data collection and engagement\n\n\n\nView Source Code on GitHub"
   },
   {
-    "objectID": "projects.html#web-scraping-and-html-parsing-with-rvest",
-    "href": "projects.html#web-scraping-and-html-parsing-with-rvest",
+    "objectID": "projects.html#nasa-eonet-api-natural-event-tracker",
+    "href": "projects.html#nasa-eonet-api-natural-event-tracker",
     "title": "Projects",
-    "section": "📊 Web Scraping and HTML Parsing with rvest",
-    "text": "📊 Web Scraping and HTML Parsing with rvest\nE-Commerce Sandbox Data Extraction & Structure\n\n\n\nOverview\nDeveloped an automated data extraction engine to collect structured data from web pages using rvest and parse complex HTML elements for analysis.\n\n\nWorkflow\n\nEthical Compliance: Inspected and verified script alignment with the site’s robots.txt permissions to ensure responsible scraping practices.\nDOM Parsing: Extracted semi-structured HTML components including item titles, dynamic prices, star ratings, and stock availability status.\nData Cleansing: Cleaned and unnested raw text strings into a highly structured, analysis-ready tibble dataframe.\n\n\n\n\nTech Stack\n\nLanguage: R\nCore Libraries: rvest, xml2, tidyverse\nData Format: Semi-structured HTML\n\n# Sample Pipeline Step\nTarget: books.toscrape.com\nEngine: read_html()\nSelector: html_nodes(\".product_pod\")\n\n\n\nView Source Code on GitHub"
+    "section": "NASA EONET API Natural Event Tracker",
+    "text": "NASA EONET API Natural Event Tracker\nProgrammatic REST API Consumption & JSON Geometry Flattening\n\n\n\nOverview\nBuilt an API pipeline to programmatically query NASA’s Earth Observatory Natural Event Tracker (EONET), isolating, cleaning, and categorizing global natural events—such as wildfires, storms, and volcanic activity—over time.\n\n\nCore Analytics & Methodology\n\nAPI Architecture: Authenticated and structured native HTTP GET requests to query NASA’s live REST API endpoint recursively.\nData Transformation: Parsed complex, deeply nested JSON spatial vectors and multi-dimensional geometry coordinates into clean, flat relational data frames.\nData Pipelines: Integrated robust error-handling workflows to handle empty objects or missing observation fields safely during extraction.\n\n\n\n\nTechnical Stack\n\nLanguage: R\nCore Libraries: httr, jsonlite, tidyverse, ggplot2\nData Format: JavaScript Object Notation (JSON)\n\n# Sample Pipeline Step\nEndpoint: api/v3/events\nFormat: GeoJSON/Nested\nMethod: unnest_wider()\n\n\n\nView Source Code on GitHub"
+  },
+  {
+    "objectID": "projects.html#genomic-pipeline-interval-tree",
+    "href": "projects.html#genomic-pipeline-interval-tree",
+    "title": "Projects",
+    "section": "Genomic Pipeline & Interval Tree",
+    "text": "Genomic Pipeline & Interval Tree\nE-Commerce Sandbox Data Extraction & Structure"
+  },
+  {
+    "objectID": "projects.html#genomic-pipeline-interval-tree-1",
+    "href": "projects.html#genomic-pipeline-interval-tree-1",
+    "title": "Projects",
+    "section": "Genomic Pipeline & Interval Tree",
+    "text": "Genomic Pipeline & Interval Tree\nScalable Genomic Interval Search & Mapping\n\n\n\nOverview\nImplemented an interval tree search algorithm with several helper functions to query overlapping genomic features across 4M+ genomic intervals and optimized query performance for fast coordinate retrieval.\n\n\nWorkflow\n\nAlgorithm Design: Built a balanced interval tree search algorithm from scratch to efficiently index genomic intervals.\nFeature Querying: Developed custom helper functions to perform fast overlap queries across 4M+ genomic features.\nPerformance Optimization: Optimized time complexity for spatial coordinate lookup, enabling rapid retrieval of positional gene data.\n\n\n\n\nTech Stack\n\nLanguage: Python\nCore Modules: Base Python (built-in data strucutres & standard library)\nData Scale: 4M+ Genomic Coordinate Query\n\n# Sample Pipeline Step\nTarget: Genomic Coordinate Query\nEngine: IntervalTree Search\nScale: 4M+ Features\n\n\n\n\n\nOverview\nDeveloped an automated data extraction engine to collect structured data from web pages using rvest and parse complex HTML elements for analysis.\n\n\nWorkflow\n\nEthical Compliance: Inspected and verified script alignment with the site’s robots.txt permissions to ensure responsible scraping practices.\nDOM Parsing: Extracted semi-structured HTML components including item titles, dynamic prices, star ratings, and stock availability status.\nData Cleansing: Cleaned and unnested raw text strings into a highly structured, analysis-ready tibble dataframe.\n\n\n\n\n\nTech Stack\n\nLanguage: R\nCore Libraries: rvest, xml2, tidyverse\nData Format: Semi-structured HTML\n\n# Sample Pipeline Step\nTarget: books.toscrape.com\nEngine: read_html()\nSelector: html_nodes(\".product_pod\")"
   },
   {
     "objectID": "projects.html#analytical-highlight-data-governance-privacy",
@@ -96,19 +103,5 @@
     "title": "Projects",
     "section": "Analytical Highlight: Data Governance & Privacy",
     "text": "Analytical Highlight: Data Governance & Privacy\n\nEthical Data Ownership: Evaluated licensing constraints, documented data provenance, and aligned the pipeline with FAIR data principles (Findable, Accessible, Interoperable, Reusable) to guarantee reproducible research.\nPrivacy-Preserving Analytics: Mitigated re-identification risks of sensitive attributes by implementing structural data anonymization techniques.\n\nGeneralization & Discretization: Transformed high-risk continuous numeric attributes into secure category bands.\nDifferential Privacy Foundations: Synthesized a random Normal distribution noise layer (\\(~N(\\mu, 1)\\)) over specific metrics to mask individual records while maintaining underlying population trends.\nModel Evaluation: Audited data structures against \\(k\\)-Anonymity and \\(l\\)-Diversity privacy compliance benchmarks."
-  },
-  {
-    "objectID": "projects.html#behavioral-playtime-analytics-the-plaicraft-project",
-    "href": "projects.html#behavioral-playtime-analytics-the-plaicraft-project",
-    "title": "Projects",
-    "section": "🎮 Behavioral Playtime Analytics: The PLAICraft Project",
-    "text": "🎮 Behavioral Playtime Analytics: The PLAICraft Project\nUBC Computer Science Research Group Collaboration\n\n\n\nOverview\nAnalyzed player acquisition and engagement data generated by users on PLAICraft, a custom Minecraft server deployed by a Computer Science research group at the University of British Columbia. The objective was to determine specific player demographic profiles that maximize data contributions to improve strategic server recruitment efforts.\n\n\nCore Analytics & Methodology\n\nFeature Engineering: Isolated individual player demographic attributes and total tracked playtime segments out of multi-relational gaming telemetry logs.\nPredictive Modeling: Built a regression model mapping individual age factors against player session lengths.\nStrategic Optimization: Identified an engagement inflection point highlighting that university-aged players under 28 yielded the highest data densities, providing actionable targeting criteria for the research group.\n\n\n\n\nTechnical Stack\n\nLanguage: R\nCore Libraries: tidyverse, ggplot2, broom\nData Format: Gaming & Session Logs (.csv)\n\n# Analytical Insight\nTarget Demographic: Age ≤ 28\nPrimary Hub: UBC Undergraduates\nObjective: Maximize data collection and engagement\n\n\n\nView Source Code on GitHub"
-  },
-  {
-    "objectID": "projects.html#nasa-eonet-api-natural-event-tracker",
-    "href": "projects.html#nasa-eonet-api-natural-event-tracker",
-    "title": "Projects",
-    "section": "🌎 NASA EONET API Natural Event Tracker",
-    "text": "🌎 NASA EONET API Natural Event Tracker\nProgrammatic REST API Consumption & JSON Geometry Flattening\n\n\n\nOverview\nBuilt an API pipeline to programmatically query NASA’s Earth Observatory Natural Event Tracker (EONET), isolating, cleaning, and categorizing global natural events—such as wildfires, storms, and volcanic activity—over time.\n\n\nCore Analytics & Methodology\n\nAPI Architecture: Authenticated and structured native HTTP GET requests to query NASA’s live REST API endpoint recursively.\nData Transformation: Parsed complex, deeply nested JSON spatial vectors and multi-dimensional geometry coordinates into clean, flat relational data frames.\nData Pipelines: Integrated robust error-handling workflows to handle empty objects or missing observation fields safely during extraction.\n\n\n\n\nTechnical Stack\n\nLanguage: R\nCore Libraries: httr, jsonlite, tidyverse, ggplot2\nData Format: JavaScript Object Notation (JSON)\n\n# Sample Pipeline Step\nEndpoint: api/v3/events\nFormat: GeoJSON/Nested\nMethod: unnest_wider()\n\n\n\nView Source Code on GitHub"
   }
 ]

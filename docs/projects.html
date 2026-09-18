@@ -211,7 +211,7 @@ window.Quarto = {
 <p>Welcome to my data portfolio! Below are featured engineering pipelines, API data clients, and predictive analytics projects built using R.</p>
 <hr>
 <section id="behavioral-playtime-analytics-the-plaicraft-project" class="level2">
-<h2 class="anchored" data-anchor-id="behavioral-playtime-analytics-the-plaicraft-project">🎮 Behavioral Playtime Analytics: The PLAICraft Project</h2>
+<h2 class="anchored" data-anchor-id="behavioral-playtime-analytics-the-plaicraft-project">Behavioral Playtime Analytics: The PLAICraft Project</h2>
 <p><strong>UBC Computer Science Research Group Collaboration</strong></p>
 <div class="columns">
 <div class="column" style="width:60%;">
@@ -245,7 +245,7 @@ window.Quarto = {
 <p><a href="https://github.com/Jayden-Yee/Group-Project-Final" class="btn btn-outline-primary btn-sm" role="button">View Source Code on GitHub</a></p>
 </section>
 <section id="nasa-eonet-api-natural-event-tracker" class="level2">
-<h2 class="anchored" data-anchor-id="nasa-eonet-api-natural-event-tracker">🌎 NASA EONET API Natural Event Tracker</h2>
+<h2 class="anchored" data-anchor-id="nasa-eonet-api-natural-event-tracker">NASA EONET API Natural Event Tracker</h2>
 <p><strong>Programmatic REST API Consumption &amp; JSON Geometry Flattening</strong></p>
 <div class="columns">
 <div class="column" style="width:60%;">
@@ -278,41 +278,75 @@ window.Quarto = {
 </div>
 <p><a href="https://github.com/jlieu02/Data-Acquisition-Privacy-and-Ownership-Case-Study" class="btn btn-outline-primary btn-sm" role="button">View Source Code on GitHub</a></p>
 </section>
-<section id="web-scraping-and-html-parsing-with-rvest" class="level2">
-<h2 class="anchored" data-anchor-id="web-scraping-and-html-parsing-with-rvest">📊 Web Scraping and HTML Parsing with rvest</h2>
+<section id="genomic-pipeline-interval-tree" class="level2">
+<h2 class="anchored" data-anchor-id="genomic-pipeline-interval-tree">Genomic Pipeline &amp; Interval Tree</h2>
 <p><strong>E-Commerce Sandbox Data Extraction &amp; Structure</strong></p>
+</section>
+<div class="columns">
+<section id="genomic-pipeline-interval-tree-1" class="level2">
+<h2 class="anchored" data-anchor-id="genomic-pipeline-interval-tree-1">Genomic Pipeline &amp; Interval Tree</h2>
+<p><strong>Scalable Genomic Interval Search &amp; Mapping</strong></p>
 <div class="columns">
 <div class="column" style="width:60%;">
 <section id="overview-2" class="level3">
 <h3 class="anchored" data-anchor-id="overview-2">Overview</h3>
-<p>Developed an automated data extraction engine to collect structured data from web pages using <code>rvest</code> and parse complex HTML elements for analysis.</p>
+<p>Implemented an interval tree search algorithm with several helper functions to query overlapping genomic features across 4M+ genomic intervals and optimized query performance for fast coordinate retrieval.</p>
 </section>
 <section id="workflow" class="level3">
 <h3 class="anchored" data-anchor-id="workflow">Workflow</h3>
 <ul>
-<li><strong>Ethical Compliance:</strong> Inspected and verified script alignment with the site’s <code>robots.txt</code> permissions to ensure responsible scraping practices.</li>
-<li><strong>DOM Parsing:</strong> Extracted semi-structured HTML components including item titles, dynamic prices, star ratings, and stock availability status.</li>
-<li><strong>Data Cleansing:</strong> Cleaned and unnested raw text strings into a highly structured, analysis-ready <code>tibble</code> dataframe.</li>
+<li><strong>Algorithm Design:</strong> Built a balanced interval tree search algorithm from scratch to efficiently index genomic intervals.</li>
+<li><strong>Feature Querying:</strong> Developed custom helper functions to perform fast overlap queries across 4M+ genomic features.</li>
+<li><strong>Performance Optimization:</strong> Optimized time complexity for spatial coordinate lookup, enabling rapid retrieval of positional gene data.</li>
 </ul>
 </section>
 </div><div class="column" style="width:40%;">
 <section id="tech-stack" class="level3">
 <h3 class="anchored" data-anchor-id="tech-stack">Tech Stack</h3>
 <ul>
+<li><strong>Language:</strong> <code>Python</code></li>
+<li><strong>Core Modules:</strong> Base Python (built-in data strucutres &amp; standard library)</li>
+<li><strong>Data Scale:</strong> 4M+ Genomic Coordinate Query</li>
+</ul>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Sample Pipeline Step</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">Target</span><span class="kw">:</span><span class="at"> Genomic Coordinate Query</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="fu">Engine</span><span class="kw">:</span><span class="at"> IntervalTree Search</span></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="fu">Scale</span><span class="kw">:</span><span class="at"> 4M+ Features</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+</div>
+</div>
+<div class="column" style="width:60%;">
+<section id="overview-3" class="level3">
+<h3 class="anchored" data-anchor-id="overview-3">Overview</h3>
+<p>Developed an automated data extraction engine to collect structured data from web pages using <code>rvest</code> and parse complex HTML elements for analysis.</p>
+</section>
+<section id="workflow-1" class="level3">
+<h3 class="anchored" data-anchor-id="workflow-1">Workflow</h3>
+<ul>
+<li><strong>Ethical Compliance:</strong> Inspected and verified script alignment with the site’s <code>robots.txt</code> permissions to ensure responsible scraping practices.</li>
+<li><strong>DOM Parsing:</strong> Extracted semi-structured HTML components including item titles, dynamic prices, star ratings, and stock availability status.</li>
+<li><strong>Data Cleansing:</strong> Cleaned and unnested raw text strings into a highly structured, analysis-ready <code>tibble</code> dataframe.</li>
+</ul>
+</section>
+</div>
+<div class="column" style="width:40%;">
+<section id="tech-stack-1" class="level3">
+<h3 class="anchored" data-anchor-id="tech-stack-1">Tech Stack</h3>
+<ul>
 <li><strong>Language:</strong> <code>R</code></li>
 <li><strong>Core Libraries:</strong> <code>rvest</code>, <code>xml2</code>, <code>tidyverse</code></li>
 <li><strong>Data Format:</strong> Semi-structured HTML</li>
 </ul>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Sample Pipeline Step</span></span>
-<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">Target</span><span class="kw">:</span><span class="at"> books.toscrape.com</span></span>
-<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="fu">Engine</span><span class="kw">:</span><span class="at"> read_html()</span></span>
-<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="fu">Selector</span><span class="kw">:</span><span class="at"> html_nodes(".product_pod")</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Sample Pipeline Step</span></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">Target</span><span class="kw">:</span><span class="at"> books.toscrape.com</span></span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="fu">Engine</span><span class="kw">:</span><span class="at"> read_html()</span></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="fu">Selector</span><span class="kw">:</span><span class="at"> html_nodes(".product_pod")</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 </div>
+</section>
 </div>
 <p><a href="https://github.com/jlieu02/Data-Acquisition-Privacy-and-Ownership-Case-Study" class="btn btn-outline-primary btn-sm" role="button">View Source Code on GitHub</a></p>
 <hr>
-</section>
 <section id="analytical-highlight-data-governance-privacy" class="level2">
 <h2 class="anchored" data-anchor-id="analytical-highlight-data-governance-privacy">Analytical Highlight: Data Governance &amp; Privacy</h2>
 <ul>
