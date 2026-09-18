@@ -4,14 +4,14 @@
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Dean’s List (2024-2025)\n\nDSCI 200 (Data Acquisition, Exploration, and Management)\nSTAT 301 (Statistical Modeling)\nDSCI 221 (Data Structures & Algorithms)\nDSCI 320 (Data Visualization)"
+    "text": "Download Full Resume (PDF)"
   },
   {
     "objectID": "resume.html#university-of-british-columbia-faculty-of-science-2024-present-data-science-major",
     "href": "resume.html#university-of-british-columbia-faculty-of-science-2024-present-data-science-major",
     "title": "Resume",
-    "section": "",
-    "text": "Dean’s List (2024-2025)\n\nDSCI 200 (Data Acquisition, Exploration, and Management)\nSTAT 301 (Statistical Modeling)\nDSCI 221 (Data Structures & Algorithms)\nDSCI 320 (Data Visualization)"
+    "section": "University of British Columbia – Faculty of Science (2024 – Present) – Data Science Major",
+    "text": "University of British Columbia – Faculty of Science (2024 – Present) – Data Science Major\nDean’s List (2024-2025)\n\nDSCI 200 (Data Acquisition, Exploration, and Management)\nSTAT 301 (Statistical Modeling)\nDSCI 221 (Data Structures & Algorithms)\nDSCI 320 (Data Visualization)"
   },
   {
     "objectID": "resume.html#work-experience",
@@ -67,7 +67,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome to my data portfolio! Below are featured engineering pipelines, API data clients, and predictive analytics projects built using R.\nView Source Code on GitHub"
+    "text": "Welcome to my data portfolio! Below are featured engineering pipelines, API data clients, and predictive analytics projects built using R."
   },
   {
     "objectID": "projects.html#behavioral-playtime-analytics-the-plaicraft-project",
@@ -88,14 +88,7 @@
     "href": "projects.html#genomic-pipeline-interval-tree",
     "title": "Projects",
     "section": "Genomic Pipeline & Interval Tree",
-    "text": "Genomic Pipeline & Interval Tree\nE-Commerce Sandbox Data Extraction & Structure"
-  },
-  {
-    "objectID": "projects.html#genomic-pipeline-interval-tree-1",
-    "href": "projects.html#genomic-pipeline-interval-tree-1",
-    "title": "Projects",
-    "section": "Genomic Pipeline & Interval Tree",
-    "text": "Genomic Pipeline & Interval Tree\nScalable Genomic Interval Search & Mapping\n\n\n\nOverview\nImplemented an interval tree search algorithm with several helper functions to query overlapping genomic features across 4M+ genomic intervals and optimized query performance for fast coordinate retrieval.\n\n\nWorkflow\n\nAlgorithm Design: Built a balanced interval tree search algorithm from scratch to efficiently index genomic intervals.\nFeature Querying: Developed custom helper functions to perform fast overlap queries across 4M+ genomic features.\nPerformance Optimization: Optimized time complexity for spatial coordinate lookup, enabling rapid retrieval of positional gene data.\n\n\n\n\nTech Stack\n\nLanguage: Python\nCore Modules: Base Python (built-in data strucutres & standard library)\nData Scale: 4M+ Genomic Coordinate Query\n\n# Sample Pipeline Step\nTarget: Genomic Coordinate Query\nEngine: IntervalTree Search\nScale: 4M+ Features\n\n\n\n\n\nOverview\nDeveloped an automated data extraction engine to collect structured data from web pages using rvest and parse complex HTML elements for analysis.\n\n\nWorkflow\n\nEthical Compliance: Inspected and verified script alignment with the site’s robots.txt permissions to ensure responsible scraping practices.\nDOM Parsing: Extracted semi-structured HTML components including item titles, dynamic prices, star ratings, and stock availability status.\nData Cleansing: Cleaned and unnested raw text strings into a highly structured, analysis-ready tibble dataframe.\n\n\n\n\n\nTech Stack\n\nLanguage: R\nCore Libraries: rvest, xml2, tidyverse\nData Format: Semi-structured HTML\n\n# Sample Pipeline Step\nTarget: books.toscrape.com\nEngine: read_html()\nSelector: html_nodes(\".product_pod\")"
+    "text": "Genomic Pipeline & Interval Tree\nScalable Genomic Interval Search & Mapping\n\n\n\nOverview\nImplemented an interval tree search algorithm with several helper functions to query overlapping genomic features across 4M+ genomic intervals and optimized query performance for fast coordinate retrieval.\n\n\nWorkflow\n\nAlgorithm Design: Built a balanced interval tree search algorithm from scratch to efficiently index genomic intervals.\nFeature Querying: Developed custom helper functions to perform fast overlap queries across 4M+ genomic features.\nPerformance Optimization: Optimized time complexity for spatial coordinate lookup, enabling rapid retrieval of positional gene data.\n\n\n\n\nTech Stack\n\nLanguage: Python\nCore Modules: Base Python (built-in data strucutres & standard library)\nData Scale: 4M+ Genomic Coordinate Query\n\n# Sample Pipeline Step\nTarget: Genomic Coordinate Query\nEngine: IntervalTree Search\nScale: 4M+ Features\n\n\n\n\n\nOverview\nDeveloped an automated data extraction engine to collect structured data from web pages using rvest and parse complex HTML elements for analysis.\n\n\nWorkflow\n\nEthical Compliance: Inspected and verified script alignment with the site’s robots.txt permissions to ensure responsible scraping practices.\nDOM Parsing: Extracted semi-structured HTML components including item titles, dynamic prices, star ratings, and stock availability status.\nData Cleansing: Cleaned and unnested raw text strings into a highly structured, analysis-ready tibble dataframe.\n\n\n\n\n\nTech Stack\n\nLanguage: R\nCore Libraries: rvest, xml2, tidyverse\nData Format: Semi-structured HTML\n\n# Sample Pipeline Step\nTarget: books.toscrape.com\nEngine: read_html()\nSelector: html_nodes(\".product_pod\")\n\n\n::::\nView Source Code on GitHub"
   },
   {
     "objectID": "projects.html#analytical-highlight-data-governance-privacy",

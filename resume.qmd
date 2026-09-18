@@ -4,7 +4,7 @@ title: "Resume"
 
 
 <!--  Add for downloadable PDF version of resume later if needed. -->
-{{< downloadthis resume.pdf label="Download Full Resume (PDF)" icon="file-earmark-pdf" type="primary" >}}
+[Download Full Resume (PDF)](resume.pdf)
 
 
 ## University of British Columbia – Faculty of Science (2024 – Present) – Data Science Major

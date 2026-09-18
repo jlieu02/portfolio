@@ -79,11 +79,6 @@ Method: unnest_wider()
 [View Source Code on GitHub](https://github.com/jlieu02/Data-Acquisition-Privacy-and-Ownership-Case-Study){.btn .btn-outline-primary .btn-sm role="button"}
 
 ## Genomic Pipeline & Interval Tree
-**E-Commerce Sandbox Data Extraction & Structure**
-
-:::: {.columns}
-
-## Genomic Pipeline & Interval Tree
 **Scalable Genomic Interval Search & Mapping**
 
 :::: {.columns}
